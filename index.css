@@ -42,18 +42,18 @@ body{
     font-size: 1.2rem;
 }
 .city{
-    font-size: 3rem;
+    font-size: 2.8rem;
 }
 .temperature{
     font-size: 2.5rem;
 }
 .weather img{
-    width: 12rem;
+    max-width: 12rem;
     height: auto;
     object-fit: contain;
 }
 .details img{
-    width: 6rem;
+    max-width: 6rem;
     height: auto;
     object-fit: contain;
 }
