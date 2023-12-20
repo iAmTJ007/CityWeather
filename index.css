@@ -44,6 +44,9 @@ body{
 .city{
     font-size: 2.8rem;
 }
+.col{
+    padding-bottom: 2rem;
+}
 .temperature{
     font-size: 2.5rem;
 }
