@@ -47,3 +47,13 @@ body{
 .temperature{
     font-size: 2.5rem;
 }
+.weather img{
+    width: 12rem;
+    height: auto;
+    object-fit: contain;
+}
+.details img{
+    width: 6rem;
+    height: auto;
+    object-fit: contain;
+}
